@@ -6,9 +6,9 @@ h1{
     font-size: 50px;
 }
 .name-color{
-    color: orange;
+    color: rgb(241, 157, 0);
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150PX;
 }
